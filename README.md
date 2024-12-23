@@ -1,11 +1,45 @@
-<h1 align="center">Hi 👋, I'm Bogdan</h1>
-<h3 align="center">I'm a programmer, I know Java and Python, and I'm starting to learn machine learning (ML ).</h3>
+# Привет, я LastNightMoon! 👋
 
-- 🎓 I’m student **MIREA**
+Меня зовут Богдан, и я — начинающий разработчик с интересами в области Python, машинного обучения, API, и создания телеграм-ботов. Сейчас я стажируюсь и развиваю свои навыки, работая над различными проектами.
 
-<h3 align="left">Connect with me:   <a href="mailto:bogdanvoinov90@gmail.com"> Email </a> <a href="https://t.me/bagnutiii" margin-left=100px> Telegram </a>  </h3>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 🚀 О моих навыках и интересах:
 
+- **Языки программирования**: Python, SQL, Java, C++ 
+- **Фреймворки и технологии**: Flask, FastAPI, Pandas, PyTorch
+- **Интересы**: машинное обучение, системы рекомендаций, разработка API, телеграм-боты
+- **Инструменты разработки**: Git, VS Code, Jupyter Notebook
 
+---
+
+## 🛠️ Мои проекты:
+
+### [📱 HeadmanBot](https://github.com/LastNightMoon/HeadmanBot)
+Telegram-бот для автоматизации задач, связанных с организацией учебного процесса.
+
+### [📚 Quick Tutor](https://github.com/LastNightMoon/QuickTutor)
+Платформа для поиска репетиторов, упрощающая взаимодействие между учениками и учителями.
+
+---
+
+## 📈 GitHub статистика:
+![Ваш GitHub статистика](https://github-readme-stats.vercel.app/api?username=LastNightMoon&show_icons=true&theme=radical)
+
+---
+
+## 📫 Как со мной связаться?
+
+- 📧 Email: [bogdanvoinov90@gmail.com](mailto:bogdanvoinov90@gmail.com)
+- Telegram: [Мой профиль](https://t.me/bagnutiii)
+- 🌐 Портфолио: [Мой сайт в разработке))](https://ya.ru)
+
+---
+
+🎯 **Цели на ближайшее время:**
+- Углубить знания в области машинного обучения.
+- Разработать систему рекомендаций.
+
+---
+
+Спасибо, что заглянули! 😊
