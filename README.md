@@ -15,10 +15,10 @@
 
 ## 🛠️ Мои проекты:
 
-### [📱 HeadmanBot](https://github.com/LastNightMoon/HeadmanBot)
+### [📱 HeadmanBot](https://github.com/qiisqwww/HeadmanBot)
 Telegram-бот для автоматизации задач, связанных с организацией учебного процесса.
 
-### [📚 Quick Tutor](https://github.com/LastNightMoon/QuickTutor)
+### [📚 Quick Tutor](https://github.com/LastNightMoon/module_t)
 Платформа для поиска репетиторов, упрощающая взаимодействие между учениками и учителями.
 
 ---
