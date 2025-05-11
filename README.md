@@ -9,7 +9,7 @@
 - **Языки программирования**: Python, SQL, Java, C++ 
 - **Фреймворки и технологии**: Flask, FastAPI, Pandas, PyTorch
 - **Интересы**: машинное обучение, системы рекомендаций, разработка API, телеграм-боты
-- **Инструменты разработки**: Git, PyCharm, Jupyter Notebook
+- **Инструменты разработки**: Git, PyCharm, Jupyter Notebook, GitLab, VSCode
 
 ---
 
