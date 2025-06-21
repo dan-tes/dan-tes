@@ -23,10 +23,6 @@ Telegram-бот для автоматизации задач, связанных
 
 ---
 
-## 📈 GitHub статистика:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LastNightMoon&show_icons=true&theme=radical)
----
-
 ## 📫 Как со мной связаться?
 
 - 📧 Email: [bogdanvoinov90@gmail.com](mailto:bogdanvoinov90@gmail.com)
